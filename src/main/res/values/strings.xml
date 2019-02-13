@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EDCAN FINGERPRINT LIBRARY</string>
+    <string name="error_fingerprint_not_supported">Your device doesn\'t support fingerprint authentication</string>
+    <string name="error_enable_fingerprint">Please enable the fingerprint permission</string>
+    <string name="error_not_configured">No fingerprint configured. Please register at least one fingerprint in your device\'s Settings</string>
+    <string name="error_enable_lockscreen">Please enable lockscreen security in your device\'s Settings</string>
+    <string name="error_android_version">Android version doesn\'t support Fingerprint Authentication</string>
+</resources>
